@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Learn</string>
+		<key>sections</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Courses</string>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>General Computer Science</string>
+						<key>prefix</key>
+						<string>COS</string>
+						<key>number</key>
+						<integer>126</integer>
+						<key>details</key>
+						<string>An introduction to computer science in the context of scientific, engineering, and commercial applications. The goal of the course is to teach basic principles and practical issues, while at the same time preparing students to use computers effectively for applications in computer science, physics, biology, chemistry, engineering, and other disciplines. Topics include: hardware and software systems; programming in Java; algorithms and data structures; fundamental principles of computation; and scientific computing, including simulation, optimization, and data analysis. Two lectures, two precepts.
+</string>
+						<key>url</key>
+						<string>registrar.princeton.edu/course-offerings/course_details.xml?courseid=002051&amp;term=1142</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Advanced Programming Techniques</string>
+						<key>prefix</key>
+						<string>COS</string>
+						<key>number</key>
+						<integer>333</integer>
+						<key>details</key>
+						<string>This is a course about the practice of programming. Programming is more than just writing code. Programmers must also assess tradeoffs, choose among design alternatives, debug and test, improve performance, and maintain software written by themselves &amp; others. At the same time, they must be concerned with compatibility, robustness, and reliability, while meeting specifications. Students will have the opportunity to develop these skills by working on their own code and in group projects.</string>
+						<key>url</key>
+						<string>registrar.princeton.edu/course-offerings/course_details.xml?courseid=002065&amp;term=1114</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Innovating Across Tech, Bus, &amp; Mkts</string>
+						<key>prefix</key>
+						<string>COS</string>
+						<key>number</key>
+						<integer>448</integer>
+						<key>details</key>
+						<string>Course teaches engineering students about issues tackled by leading Chief Technology Officers: the technical visionaries and/or managers who innovate at the boundaries of technology and business by understanding both deeply, and who are true partners to the CEO, not just implementers of business goals. Focus will be on thinking like a CTO (of a startup and a large company) from technology and business perspectives, and on software and Internet-based businesses. Industry-leading guest speakers provide perspectives too.
+</string>
+						<key>url</key>
+						<string>registrar.princeton.edu/course-offerings/course_details.xml?courseid=011558&amp;term=1134</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Entrepreneurial Leadership</string>
+						<key>prefix</key>
+						<string>EGR</string>
+						<key>number</key>
+						<integer>497</integer>
+						<key>details</key>
+						<string>The mission of the class is to enable students to successfully create and lead enterprises by teaching the basic skills required to be a successful entrepreneurial leader. This class compliments EGR 491 &quot;High Tech Entrepreneurship&quot; which focuses on &apos;giving birth to a company&apos;, by focusing instead on enterprise &apos;early child rearing&apos;. The basic skills taught fall into three major categories: how to create and manage powerful relationships, how to know and manage yourself, in addition to understanding how organizations work as they evolve from the idea stage to become value producing, self-sustaining enterprises.
+</string>
+						<key>url</key>
+						<string>registrar.princeton.edu/course-offerings/course_details.xml?courseid=012025&amp;term=1142</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>High-Tech Entrepreneurship</string>
+						<key>prefix</key>
+						<string>ELE</string>
+						<key>number</key>
+						<integer>491</integer>
+						<key>details</key>
+						<string>This &quot;hands-on&quot; practical course introduces students to the analysis and actions required to launch a successful high tech company. Using several conceptual frameworks and analytical techniques, it addresses the challenges of evaluating technologies for commercial feasibility, determining how best to launch a new venture, attracting the resources needed to start a company (e.g. people, corporate partners, and venture capital), preparing comprehensive business plans, structuring business relationships, and managing early stage companies toward &quot;launch velocity&quot; and sustainable growth.</string>
+						<key>url</key>
+						<string>registrar.princeton.edu/course-offerings/course_details.xml?courseid=002518&amp;term=1142</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Technology and Society</string>
+						<key>prefix</key>
+						<string>EGR</string>
+						<key>number</key>
+						<integer>277</integer>
+						<key>details</key>
+						<string>Technology and society are unthinkable without each other - each provides the means and framework in which the other develops. To explore this dynamic, this course investigates a wide array of questions on the interaction between technology, society, politics, and economics, emphasizing the themes of innovation and maturation, systems and regulation, risk and failure, and ethics and expertise. Specific topics covered include nuclear power and waste, genetically-modified organisms, regulation of the internet, medical mistakes, intellectual property, the financial crisis of 2008, and the post-fossil-fuels economy.</string>
+						<key>url</key>
+						<string>registrar.princeton.edu/course-offerings/course_details.xml?courseid=011280&amp;term=1114</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Innovation Process Leadership</string>
+						<key>prefix</key>
+						<string>EGR</string>
+						<key>number</key>
+						<integer>437</integer>
+						<key>details</key>
+						<string>In today&apos;s hypercompetitive global marketplace, innovation is the lifeblood of any business enterprise. This practical course exposes students to the fundamental aspects of leading the technological innovation process: from strategy formulation, idea generation, invention/concept development, through business plan preparation and decision making to commercialization, critical success factors, process optimization and corporate agility. It covers the basic practices required to become technology-savvy leaders in a complex technological society.</string>
+						<key>url</key>
+						<string>registrar.princeton.edu/course-offerings/course_details.xml?courseid=010155&amp;term=1134</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Health Innovation and Policy</string>
+						<key>prefix</key>
+						<string>MOL</string>
+						<key>number</key>
+						<integer>402</integer>
+						<key>details</key>
+						<string>This course will review the policies that influence new technology development and use in the health care sector. The course will explore how governments promote health innovation and regulate safety, and it will familiarize students with the broader social and the institutional factors that influence technology development, uptake and diffusion in health care systems.
+</string>
+						<key>url</key>
+						<string>registrar.princeton.edu/course-offerings/course_details.xml?courseid=012296&amp;term=1134</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Electronic Commerce</string>
+						<key>prefix</key>
+						<string>ORF</string>
+						<key>number</key>
+						<integer>401</integer>
+						<key>details</key>
+						<string>Electronic commerce, traditionally the buying and selling of goods using electronic technologies, extends to essentially all facets of human interaction when extended to services, particularly information. The course focuses on both the software and the hardware aspects of traditional aspects as well as the broader aspects of the creation, dissemination and human consumption electronic services. Covered will be the physical, financial and social aspects of these technologies.</string>
+						<key>url</key>
+						<string>registrar.princeton.edu/course-offerings/course_details.xml?courseid=008004&amp;term=1124</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Environmental Entrepreneurship</string>
+						<key>prefix</key>
+						<string>ENV</string>
+						<key>number</key>
+						<integer>324</integer>
+						<key>details</key>
+						<string>Students will learn the process for developing and operating a business in our economy&apos;s fastest growing field -- green business. Opportunities for profitable businesses will be identified and researched. The concepts of environmental stewardship and sustainability will be assessed together with market forces and economic development. Market analysis, organizational structures, management tools,and financial models will be constructed and evaluated both from the role of the entrepreneur and the investor. Students will produce environmentally-sustainable, socially responsible, and profitable business plans worthy of attracting investors.</string>
+						<key>url</key>
+						<string>registrar.princeton.edu/course-offerings/course_details.xml?courseid=011905&amp;term=1124</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Critical Approaches to Human Computer Interaction</string>
+						<key>prefix</key>
+						<string>SOC</string>
+						<key>number</key>
+						<integer>409</integer>
+						<key>details</key>
+						<string>How do people use contemporary technologies -- like cell phones, MMORPGs, text messages, and social network sites -- in their daily lives? What impact do these systems have on relationships, mobility, global systems, activism, sustainability and art? And can we design new systems to support these experiences? This senior seminar will bring together students in the social and computing sciences in an introduction to qualitative studies in Human Computer Interaction (HCI), to examine our assumptions in computing systems and reach for new dimensions of user experience.</string>
+						<key>url</key>
+						<string>registrar.princeton.edu/course-offerings/course_details.xml?courseid=011914&amp;term=1124</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>The Lean Launchpad</string>
+						<key>prefix</key>
+						<string>EGR</string>
+						<key>number</key>
+						<integer>495</integer>
+						<key>details</key>
+						<string>This course provides real world, hands-on learning on what it&apos;s like to actually start a high-tech company. This class is not about how to write a business plan. Instead you will be getting your hands dirty talking to customers, partners, competitors, as you encounter the chaos and uncertainty of how a start-up actually works. You&apos;ll work in teams learning how to turn a great idea into a great company. You&apos;ll learn how to use a business model to brainstorm each part of a company. Each week will be new adventure as you test each part of your business model and then share the hard earned knowledge with the rest of the class.</string>
+						<key>url</key>
+						<string>registrar.princeton.edu/course-offerings/course_details.xml?courseid=010769&amp;term=1132</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Radical Innovation in Global Markets</string>
+						<key>prefix</key>
+						<string>EGR</string>
+						<key>number</key>
+						<integer>492</integer>
+						<key>details</key>
+						<string>Radical innovation solves big problems and alters the way we live, colliding with government polices as the effects ripple across national frontiers. Where do these innovations come from, how do they work, and what policy problems do they cause? This class examines the impact of technical innovation on a global scale. Students learn how innovations in areas such as satellite imaging, global positioning, internet search engines, and pandemic vaccines have a profound impact on foreign policy. Students learn to think about innovation from the standpoint of business managers, government regulators, social entrepreneurs, in very practical terms.
+</string>
+						<key>url</key>
+						<string>registrar.princeton.edu/course-offerings/course_details.xml?courseid=010971&amp;term=1122</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>The Anthropology of Development</string>
+						<key>prefix</key>
+						<string>ANT</string>
+						<key>number</key>
+						<integer>314</integer>
+						<key>details</key>
+						<string>Why do development projects fail? This course examines why well-meaning development experts get it wrong. It looks closely at what anthropologists mean by culture and why most development experts fail to attend to the cultural forces that hold communities together. By examining development projects from South Asia to the United States, students learn the relevance of exchange relations, genealogies, power, religion, and indigenous law. This semester the class will focus on energy and water.</string>
+						<key>url</key>
+						<string>registrar.princeton.edu/course-offerings/course_details.xml?courseid=010770&amp;term=1132</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Ventures to Address Global Challenges</string>
+						<key>prefix</key>
+						<string>EGR</string>
+						<key>number</key>
+						<integer>498</integer>
+						<key>details</key>
+						<string>Focus: how entrepreneurial ventures - as compared with international aid programs, private philanthropy and corporate social responsibility initiatives - can potentially address major global challenges such as widespread poverty, intractable disease, slum housing and global warming that affect the lives and well-being of billions. Design: after overview of selected global challenges and the fundamentals of entrepreneurship, we will explore emerging and established ventures in each of these challenge arenas in more detail. Classes: combination of lectures and case discussions, interspersed with conversations with entrepreneurs.</string>
+						<key>url</key>
+						<string>registrar.princeton.edu/course-offerings/course_details.xml?courseid=011993&amp;term=1132</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Workshops</string>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>iOS Hack Class</string>
+						<key>details</key>
+						<string>Want to create the next revolutionary iOS app? Come to E-Club&apos;s iOS Hack Class, and you will have the skills to do that!</string>
+						<key>url</key>
+						<string>http://princetoneclub.com/collection/hack-classes-2</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Web Hack Class</string>
+						<key>details</key>
+						<string>Come learn how to make stunning websites.</string>
+						<key>url</key>
+						<string>http://princetoneclub.com/collection/hack-classes-2</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Design Hack Class</string>
+						<key>details</key>
+						<string>Designing is at the center of technology. Come learn all about it at E-Club&apos;s Design Hack Class.</string>
+						<key>url</key>
+						<string>http://princetoneclub.com/collection/hack-classes-2</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Idea Factory</string>
+						<key>details</key>
+						<string>Idea Factory is a hub for diverse minds on campus to come together and drive innovative ideas or just learn about the latest trends in various fields. It’s a platform appropriate to any curious mind regardless of where you are in the process of entrepreneurship be it discovering your interest in potential opportunities, nurturing your nascent idea into a well-developed plan of action, or learning from the mentors in entrepreneurship for key insights. If you have a passion for thinking out-of-the-box, Idea Factory is the place for you! P.S. Free pizza!</string>
+						<key>url</key>
+						<string>http://princetoneclub.com</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Speaker Series</string>
+						<key>details</key>
+						<string>The Princeton Entrepreneurship Speaker Series brings leading entrepreneurs, investors, innovators, and industry leaders to the Princeton campus to speak about their experiences, lead educational workshops, and inspire students to pursue entrepreneurship. The Series this year will feature 1-two blockbuster speaker events each semester that are open to all students, as well as a few targeted towards certain disciplines or audiences. Some of our past guests include Peter Thiel, Fred Wilson, Walter Isaacson, Meg Whitman, and Jack Dorsey.</string>
+						<key>url</key>
+						<string>http://princetoneclub.com/collection/speaker-series</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Do</string>
+		<key>sections</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Competitions</string>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Hack Week</string>
+						<key>date</key>
+						<string>2014/01/28</string>
+						<key>organizer</key>
+						<string>E-Club</string>
+						<key>on campus</key>
+						<true/>
+						<key>details</key>
+						<string>Stay on campus for intersession and build a prototype that could form the basis of a startup in just a week, all the while getting mentored by big time entrepreneurs and attending classes with some of the best programmers and designers in the industry. You&apos;ll get hands-on experience about both the technical and business aspects of doing a startup, and you&apos;ll add an awesome project to your portfolio.</string>
+						<key>url</key>
+						<string>http://princetoneclub.com/collection/hack-week-2</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>HackPrinceton</string>
+						<key>date</key>
+						<string>2013/11/08</string>
+						<key>organizer</key>
+						<string>E-Club</string>
+						<key>on campus</key>
+						<true/>
+						<key>details</key>
+						<string>HackPrinceton provides Princeton students with a wonderful opportunity to hack, work together and grow their technical skills and experience converting an idea from concept to reality. It’s also a wonderful way for students to learn new things and share what they know with others.</string>
+						<key>url</key>
+						<string>http://hackprinceton.com</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>PennApps</string>
+						<key>date</key>
+						<string>NULL</string>
+						<key>organizer</key>
+						<string>U. of Penn.</string>
+						<key>on campus</key>
+						<false/>
+						<key>details</key>
+						<string>PennApps is a 48-hour hackathon (app development competition) at the University of Pennsylvania where the top student engineers, designers, and entrepreneurs from universities all over the US come together to showcase technical achievements and compete for cash prizes.</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>TigerLaunch</string>
+						<key>date</key>
+						<string>NULL</string>
+						<key>organizer</key>
+						<string>E-Club</string>
+						<key>on campus</key>
+						<true/>
+						<key>details</key>
+						<string>The Princeton Entrepreneurship Club’s annual startup challenge. Submit a first round application answering a few questions about your startup idea and team. After semi-finalists are announced, you will be paired up with mentors and be able to submit either a product demo or a business plan.</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Princeton Pitch</string>
+						<key>date</key>
+						<string>2013/09/25</string>
+						<key>organizer</key>
+						<string>E-Club</string>
+						<key>on campus</key>
+						<true/>
+						<key>details</key>
+						<string>Princeton Pitch is an annual competition organized by the Princeton Entrepreneurship Club that gives students the chance to win $1,000 for an entrepreneurial or social entrepreneurial startup idea they have. During the event, students have the opportunity to participate in mentorship sessions with tech revolutionaries as well as to receive constructive feedback from experienced entrepreneurs, faculty and fellow students.</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Funding</string>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Community-Based Learning Initiative</string>
+						<key>details</key>
+						<string>The Community-Based Learning Initiative (CBLI) connects students&apos; academic work with their interest in and concern for the communities around the University. Working with local nonprofits, students develop research projects, collect and analyze data, and share their results and conclusions, not just with their professors, but also with organizations and agencies that can make use of the information. Working with CBLI, students can do community-based research in courses, as a summer research internship, and as part of their junior paper or senior thesis.</string>
+						<key>url</key>
+						<string>https://www.princeton.edu/cbli/</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Dorm Room Fund</string>
+						<key>details</key>
+						<string>Dorm Room Fund is a student-run venture firm that invests in student-run companies. Our team is all students and our mission is to inspire and support more careers in the startup industry. We believe that a relatively small amount of capital can help student founders take their ideas from the dorm room to the market. We are laser-focused on working with the best student talent in the world. We&apos;re backed by First Round Capital.</string>
+						<key>url</key>
+						<string>http://dormroomfund.com</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>eLab</string>
+						<key>details</key>
+						<string>The Keller Center’s eLab Summer Accelerator Program at Princeton University is a launch pad for student startups, a creative co-working space open, by application only, to some of Princeton’s brightest and most dynamic students.  An exceptional 10-week long summer program awaits these students as they learn from the best innovators and investors and fine tune their nascent start up ideas to develop them into viable and scalable ventures.  Over a period of 10 weeks, students will work together in a supportive community of fellow entrepreneurs, assigned mentors, and participate in training sessions and workshops.</string>
+						<key>url</key>
+						<string>http://kellercenter.princeton.edu/elab/</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Tigerlabs</string>
+						<key>details</key>
+						<string>Tigerlabs is an entrepreneurship campus founded by serial entrepreneurs &amp; venture capitalists with the goal of organizing the fast growing but disjointed startup ecosystem of Princeton, NJ.</string>
+						<key>url</key>
+						<string>http://www.tigerlabs.co</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Tiger2Tiger</string>
+						<key>details</key>
+						<string>Princeton University&apos;s Class of 2002 has begun a legacy community service project to launch the Tiger2Tiger program, which will enable graduating Princeton seniors to pursue inspiring projects with immediate relevance and impact.</string>
+						<key>url</key>
+						<string>http://www.tiger2tiger.org</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Internships</string>
+				<key>content</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>First Round Capital Common Application</string>
+						<key>url</key>
+						<string>http://www.university.firstround.com</string>
+						<key>details</key>
+						<string>With this one application, engineering students can apply for summer internships or full-time jobs at over 170 amazing startup companies.  Maybe you&apos;re an algorithms and data junkie looking to work on insanely tough problems with a small team in SF, or perhaps you&apos;re more interested in doing iOS development for an eCommerce company in NYC  – just tell us about yourself, your interests and desired location and we&apos;ll take care of the rest.   If you&apos;re a student, you can apply here now. 
+
+Read more: http://firstround.com/article/Apply-to-work-at-170-startups-with-one-Common-Application#ixzz2g3GEPbgh</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>hackNY Fellows</string>
+						<key>url</key>
+						<string>http://apply.hackny.org</string>
+						<key>details</key>
+						<string>The hackNY Fellows program, now entering its fourth year, is an intense program designed to introduce students to NYC&apos;s startup ecosystem by pairing the best technical minds with great New York startups.</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>International Internship Program</string>
+						<key>url</key>
+						<string>http://www.princeton.edu/oip/iip/</string>
+						<key>details</key>
+						<string>Princeton&apos;s International Internship Program (IIP) supports Princeton undergraduates who wish to undertake a summer internship abroad. IIP is partnering with an increasing number of University programs, departments, and centers to support internship placements in every region of the world and across diverse areas of professional and academic interests.
+
+If you are a freshman, sophomore, or junior interested in spending a summer abroad doing work related to your academic concentration or interests, we encourage you to explore the listings on our website and to contact us with any questions.</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Keller Center Internships</string>
+						<key>url</key>
+						<string>http://commons.princeton.edu/kellercenter/internships/summer.html</string>
+						<key>details</key>
+						<string>Established in February 2005, the mission of Princeton&apos;s Keller Center is to &quot;educate students to be leaders in a technology-driven society&quot;. The Keller Center is creating new courses and strengthening existing ones that go beyond purely technical subjects to provide students a broader understanding of the global economic, environmental and cultural forces that shape and are shaped by technology. At the same time, the center is enriching students&apos; education by supporting student engineering projects in the community, providing internships, hosting a variety of lecture series, and exposing them to entrepreneurial opportunities.
+</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>KPCB Fellows</string>
+						<key>url</key>
+						<string>http://kpcbfellows.com</string>
+						<key>details</key>
+						<string>Our KPCB Fellows Program offers outstanding college students from across the United States an opportunity to gain significant experience working on unique and challenging technical or design problems, and to develop new relationships that are meaningful to their careers.
+
+Over the course of a summer, KPCB Fellows will be employed at our portfolio companies, where they can develop their technical or design skills and be mentored by an executive within the company. Fellows will also be invited to attend private events held by KPCB and events hosted by portfolio companies, where they can meet other talented engineering and design students, network with luminaries in their respective field, and explore the San Francisco Bay Area.</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Nation&apos;s Service</string>
+						<key>url</key>
+						<string>http://nationsservice.org/internships</string>
+						<key>details</key>
+						<string>Hello! Welcome to Nations&apos; Service, a resource for students and alumni looking for a way to do well by doing good.
+
+This wiki is being developed so that it can be used as a free, collaborative resource for university students and alumni to explore a wide variety of career paths together, and to discuss alternatives to the seemingly limited options students see as they approach graduation.</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Career&apos;s Services</string>
+						<key>url</key>
+						<string>http://www.princeton.edu/career/undergrads/internships/</string>
+						<key>details</key>
+						<string>Career Services is committed to assisting the undergraduate and graduate students, and alumni of Princeton University in all areas of career planning, including exploring career-related interests, applying to graduate or professional schools, and developing effective strategies for the pursuit of full-time employment, internships, or other experiential learning opportunities.</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Tiger Tracks</string>
+						<key>url</key>
+						<string>https://princeton.experience.com/experience/login</string>
+						<key>details</key>
+						<string>TigerTracks is Princeton&apos;s electronic recruiting system that holds literally hundreds of listings for jobs, fellowships, and internships. New opportunities are continually added to TigerTracks!
+
+TigerTracks is used to manage the on-campus recruiting program which coordinates the visits of employers for interviews,  information sessions, and other recruiting events. Check TigerTracks regularly to view upcoming employer events and on-campus interviews. You can also use TigerTracks to research and contact recruiters, manage your application materials, apply for positions, and sign up for on-campus interviews.
+
+Be sure to fill out your profile thoroughly once you have accessed your account. Keeping all sections of your profile up-to-date, especially your concentration and employment preferences, will ensure that you receive targeted email announcements from Career Services (on behalf of recruiting organizations) when relevant opportunities and events arise.</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Connect</string>
+		<key>sections</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Clubs</string>
+				<key>content</key>
+				<array>
+			<dict>
+				<key>name</key>
+				<string>Princeton Social Entrepreneurship Initiative</string>
+				<key>short_name</key>
+				<string>PSEI</string>
+				<key>details</key>
+				<string>PSEI is a family of students, alumni, faculty, and friends who, together, are changing the world for the better.</string>
+				<key>url</key>
+				<string>http://princetonsei.org</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Princeton Entrepreneurship Club</string>
+				<key>short_name</key>
+				<string>E-Club</string>
+				<key>details</key>
+				<string>Our team of 40+ officers organizes events to teach and inspire students to pursue entrepreneurship. Go to our website to sign up for emails about our latest events:</string>
+				<key>url</key>
+				<string>http://princetoneclub.com</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Development Design Initiative</string>
+				<key>short_name</key>
+				<string>DDI</string>
+				<key>details</key>
+				<string>We create and foster Design Partnerships where students partner with local implementation partners to complete series of 1 to 2 year design projects. Have an idea for one?  Please contact us!</string>
+				<key>url</key>
+				<string>http://princetonddi.weebly.com/index.html</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Engineers Without Borders</string>
+				<key>short_name</key>
+				<string>EWB-PU</string>
+				<key>details</key>
+				<string>EWB-PU is dedicated to engaging the Princeton University community in addressing international development challenges through the design and implementation of sustainable engineering projects, drawing on the long legacy of &quot;Princeton in the Nation&apos;s Service and in the Service of All Nations.&quot;</string>
+				<key>url</key>
+				<string>http://ewb.princeton.edu/site/</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Sustainable Fasion Initiative</string>
+				<key>short_name</key>
+				<string>SFI</string>
+				<key>details</key>
+				<string>Founded at Princeton University in 2011, The Sustainable Fashion Initiative is dedicated to cultivating a culture of sustainability in the fashion industry that is grounded in the conviction of young consumers to live, create, and shop purposefully.</string>
+				<key>url</key>
+				<string>http://www.sustainable-fashion.org</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Leadership for Change</string>
+				<key>short_name</key>
+				<string>LFC</string>
+				<key>details</key>
+				<string>Leadership for Change envisions a Princeton culture in which leaders are not defined by position or title, but rather by students’ motivation to develop themselves and others as leaders, and by their ability to envision and effect change in their organization, community, and field. </string>
+				<key>url</key>
+				<string>http://princetonlfc.weebly.com</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Association for Computing Machinery</string>
+				<key>short_name</key>
+				<string>ACM</string>
+				<key>details</key>
+				<string>The Princeton ACM is the student chapter of the world’s largest educational and scientific computing society, the Association for Computing Machinery (ACM). The Princeton ACM aims to connect and create a community for Princeton students of all majors interested in computer science. We hold regular events, such as our bi-to-tri-weekly all-night-long Hackathons (“Code@Night”), study breaks, and programming competitions. We also hold a variety of career events, such as a Resume Workshop (sponsored by Facebook) or mock technical interviews.</string>
+				<key>url</key>
+				<string>http://princetonacm.com</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Princeton Women in Computer Science</string>
+				<key>short_name</key>
+				<string>PWiCS</string>
+				<key>details</key>
+				<string>Princeton Women in Computer Science (PWiCS) was formed in May of 2010 by two female computer science undergraduates who wanted to find a way to allow the small number of women in the computer science department at Princeton to meet each other and encourage other women to see how much fun it is to be a computer scientist.  The group started out holding course advising study breaks for younger students, and now has grown into hosting many other kinds of events.</string>
+				<key>url</key>
+				<string>http://princetonwics.wordpress.com</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Society of Women Engineers</string>
+				<key>short_name</key>
+				<string>SWE</string>
+				<key>details</key>
+				<string>Our group is dedicated to promoting a sense of community among female BSE students, professors, and alumnae of Princeton and to introduce younger girls to the various opportunities offered by studying engineering. We hold study breaks and other social events throughout the year for interested students. Our calendar also includes various industry outreach opportunities. At two girl scouts events each year, local girls earn science and technology badges with members of our club. At our High School Colloquiums we help introduce high school students to the various branches of engineering and offer an insight into these fields that they might otherwise not consider studying. </string>
+				<key>url</key>
+				<string>http://www.princeton.edu/~swe/index.html</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>International Association of Hydrogen Energy</string>
+				<key>short_name</key>
+				<string>IAHE-PU</string>
+				<key>details</key>
+				<string>IAHE‐PU stands for the student chapter of International Association of Hydrogen Energy (IAHE) at Princeton University. IAHE is a renowned international organisation, with a main objective to promote hydrogen as a sustainable energy carrier for the future. As one of the organisation’s pioneering student chapters in US, IAHE-PU will aim to engage the campus with learning more about hydrogen energy, its potential, its limitations, and the open questions motivating today’s cutting-edge research on alternative energy. Our group aspires to become an active member in the university’s Sustainability Plan, and to bring new technological perspectives to the existing efforts on campus. In addition, our group will also strive to connect PU students, especially those with an interest in energy technology or public policy, to the worldwide opportunities and professional mentorships sponsored by IAHE.</string>
+				<key>url</key>
+				<string>http://www.princeton.edu/~iahe/</string>
+			</dict>
+		</array>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Trips</string>
+				<key>content</key>
+				<array>
+			<dict>
+				<key>name</key>
+				<string>Silicon Valley TigerTrek</string>
+				<key>details</key>
+				<string>The annual Silicon Valley TigerTrek is a week-long trip organized by E-Club that a couple dozen students from Princeton University take into Silicon Valley to visit startups, meet with top entrepreneurs and investors, and learn more about startup culture.</string>
+				<key>date</key>
+				<string>NULL</string>
+				<key>organizer</key>
+				<string>E-Club</string>
+				<key>url</key>
+				<string>http://princetoneclub.com/collection/silicon-valley-tigertrek</string>
+				<key>location</key>
+				<string>Silicon Valley</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>NYC TigerTrek</string>
+				<key>details</key>
+				<string>NYC TigerTrek is a day-long visit to the most vibrant startups on the East Coast.</string>
+				<key>date</key>
+				<string>NULL</string>
+				<key>organizer</key>
+				<string>E-Club</string>
+				<key>url</key>
+				<string>http://princetoneclub.com/collection/off-campus</string>
+				<key>location</key>
+				<string>New York City</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>East Coast Startup Summit</string>
+				<key>details</key>
+				<string>A conference bringing students from dozens of universities across the country around the wave of entrepreneurial expansion that is hitting the east coast.</string>
+				<key>date</key>
+				<string>NULL</string>
+				<key>organizer</key>
+				<string></string>
+				<key>url</key>
+				<string>http://www.ecstartupsummit.com</string>
+				<key>location</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Start @ a Startup Conference</string>
+				<key>details</key>
+				<string>The Start @ a Startup Conference aims to connect East Coast college students with the best startups from around the country, especially those on the West Coast. The first Start @ a Startup conference was hosted in February 2013 on Princeton University’s campus and was a huge success. Students from the top East Coast schools will be coming together again for an interactive weekend of tech talks, workshops, and intimate discussions with venture-backed founders and engineering leaders. Students will attend educational and networking events on Saturday and startups will hold interviews with selected students for full-time positions and/or internships on Sunday. Think of it as an educational crash course on startup technologies and a potential career launchpad!</string>
+				<key>date</key>
+				<string>NULL</string>
+				<key>organizer</key>
+				<string>Business Today</string>
+				<key>url</key>
+				<string>http://www.businesstoday.org/conferences/start-a-startup-conference/</string>
+				<key>location</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Stanford Entrepreneurial Bootcamp</string>
+				<key>details</key>
+				<string>E-Bootcamp is an intensive conference designed specifically to target and strip away all of the potential weaknesses of our Bootcampers’ ideas and reforge them, ready for launch. Includes pitching and design workshops, marketing initiatives, media rundowns, sector-specific critiquing, and mentoring sessions with our all-star sponsors and partners. </string>
+				<key>date</key>
+				<string>NULL</string>
+				<key>organizer</key>
+				<string>Stanford University</string>
+				<key>url</key>
+				<string>http://bases.stanford.edu/e-bootcamp/</string>
+				<key>location</key>
+				<string>Stanford University</string>
+			</dict>
+		</array>
+			</dict>
+		</array>
+		
+	</dict>
+</array>
+</plist>

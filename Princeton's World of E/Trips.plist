@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Silicon Valley TigerTrek</string>
+		<key>details</key>
+		<string>The annual Silicon Valley TigerTrek is a week-long trip organized by E-Club that a couple dozen students from Princeton University take into Silicon Valley to visit startups, meet with top entrepreneurs and investors, and learn more about startup culture.</string>
+		<key>date</key>
+		<string>NULL</string>
+		<key>organizer</key>
+		<string>E-Club</string>
+		<key>url</key>
+		<string>http://princetoneclub.com/collection/silicon-valley-tigertrek</string>
+		<key>location</key>
+		<string>Silicon Valley</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NYC TigerTrek</string>
+		<key>details</key>
+		<string>NYC TigerTrek is a day-long visit to the most vibrant startups on the East Coast.</string>
+		<key>date</key>
+		<string>NULL</string>
+		<key>organizer</key>
+		<string>E-Club</string>
+		<key>url</key>
+		<string>http://princetoneclub.com/collection/off-campus</string>
+		<key>location</key>
+		<string>New York City</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>East Coast Startup Summit</string>
+		<key>details</key>
+		<string>A conference bringing students from dozens of universities across the country around the wave of entrepreneurial expansion that is hitting the east coast.</string>
+		<key>date</key>
+		<string>NULL</string>
+		<key>organizer</key>
+		<string></string>
+		<key>url</key>
+		<string>http://www.ecstartupsummit.com</string>
+		<key>location</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Start @ a Startup Conference</string>
+		<key>details</key>
+		<string>The Start @ a Startup Conference aims to connect East Coast college students with the best startups from around the country, especially those on the West Coast. The first Start @ a Startup conference was hosted in February 2013 on Princeton University’s campus and was a huge success. Students from the top East Coast schools will be coming together again for an interactive weekend of tech talks, workshops, and intimate discussions with venture-backed founders and engineering leaders. Students will attend educational and networking events on Saturday and startups will hold interviews with selected students for full-time positions and/or internships on Sunday. Think of it as an educational crash course on startup technologies and a potential career launchpad!</string>
+		<key>date</key>
+		<string>NULL</string>
+		<key>organizer</key>
+		<string>Business Today</string>
+		<key>url</key>
+		<string>http://www.businesstoday.org/conferences/start-a-startup-conference/</string>
+		<key>location</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Stanford Entrepreneurial Bootcamp</string>
+		<key>details</key>
+		<string>E-Bootcamp is an intensive conference designed specifically to target and strip away all of the potential weaknesses of our Bootcampers’ ideas and reforge them, ready for launch. Includes pitching and design workshops, marketing initiatives, media rundowns, sector-specific critiquing, and mentoring sessions with our all-star sponsors and partners. </string>
+		<key>date</key>
+		<string>NULL</string>
+		<key>organizer</key>
+		<string>Stanford University</string>
+		<key>url</key>
+		<string>http://bases.stanford.edu/e-bootcamp/</string>
+		<key>location</key>
+		<string>Stanford University</string>
+	</dict>
+</array>
+</plist>

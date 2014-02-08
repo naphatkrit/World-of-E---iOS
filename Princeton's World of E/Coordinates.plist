@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Princeton University</key>
+	<dict>
+		<key>Coordinates</key>
+		<array>
+			<real>40.343502</real>
+			<real>-74.65602699999999</real>
+		</array>
+	</dict>
+	<key>Frist Campus Center</key>
+	<dict>
+		<key>Tags</key>
+		<string>Pace, USG, mail, package, pick, up</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.346851</real>
+			<real>-74.655254</real>
+		</array>
+		<key>POI</key>
+		<array>
+			<string>Pace Center</string>
+		</array>
+	</dict>
+	<key>E-Quad</key>
+	<dict>
+		<key>Tags</key>
+		<string>engineering, electrical, mechanical, biological, chemical, computer, aerospace, civil, environmental, operations, financial, Keller, eLab, ELE, MAE, CBE, CEE, ORF, equad</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.350301</real>
+			<real>-74.651056</real>
+		</array>
+		<key>POI</key>
+		<array>
+			<string>Keller Center</string>
+			<string>eLab</string>
+		</array>
+	</dict>
+	<key>Forbes College</key>
+	<dict>
+		<key>Tags</key>
+		<string>residential, dining, hall, dorm, food</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.342151</real>
+			<real>-74.660916</real>
+		</array>
+	</dict>
+	<key>Whitman College</key>
+	<dict>
+		<key>Tags</key>
+		<string>residential, dining, hall, dorm, food</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.344075</real>
+			<real>-74.657636</real>
+		</array>
+	</dict>
+	<key>Butler College</key>
+	<dict>
+		<key>Tags</key>
+		<string>residential, dining, hall, dorm, food</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.343995</real>
+			<real>-74.656327</real>
+		</array>
+	</dict>
+	<key>Wilson College</key>
+	<dict>
+		<key>Tags</key>
+		<string>residential, dining, hall, dorm, food</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.345514</real>
+			<real>-74.65611800000001</real>
+		</array>
+	</dict>
+	<key>Mathey College</key>
+	<dict>
+		<key>Tags</key>
+		<string>residential, dining, hall, dorm, food</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.347722</real>
+			<real>-74.66161099999999</real>
+		</array>
+	</dict>
+	<key>Rockefeller College</key>
+	<dict>
+		<key>Tags</key>
+		<string>residential, dining, hall, dorm, food</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.348576</real>
+			<real>-74.661562</real>
+		</array>
+	</dict>
+	<key>McCosh Health Center</key>
+	<dict>
+		<key>Tags</key>
+		<string>clinic, medicine, doctor, nurse, drugs</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.346127</real>
+			<real>-74.65542600000001</real>
+		</array>
+	</dict>
+	<key>Architecture Library</key>
+	<dict>
+		<key>Tags</key>
+		<string>school, books, research</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.347957</real>
+			<real>-74.65621400000001</real>
+		</array>
+	</dict>
+	<key>East Asian Library</key>
+	<dict>
+		<key>Tags</key>
+		<string>books, research, gest, collection</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.346851</real>
+			<real>-74.655254</real>
+		</array>
+	</dict>
+	<key>Engineering Library</key>
+	<dict>
+		<key>Tags</key>
+		<string>books, research, engineer, friend, center</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.350262</real>
+			<real>-74.652574</real>
+		</array>
+	</dict>
+	<key>Firestone Library</key>
+	<dict>
+		<key>Tags</key>
+		<string>books, research, humanities, main</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.349431</real>
+			<real>-74.657346</real>
+		</array>
+	</dict>
+	<key>Humanities Resource Center</key>
+	<dict>
+		<key>Tags</key>
+		<string>books, research, video, library, east, pyne</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.348768</real>
+			<real>-74.658473</real>
+		</array>
+	</dict>
+	<key>Lewis Library</key>
+	<dict>
+		<key>Tags</key>
+		<string>books, research, science</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.346135</real>
+			<real>-74.652636</real>
+		</array>
+	</dict>
+	<key>Marquand Library</key>
+	<dict>
+		<key>Tags</key>
+		<string>books, research, art, archaelogy, hall, mccormick</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.347444</real>
+			<real>-74.658108</real>
+		</array>
+	</dict>
+	<key>Mendel Music Library</key>
+	<dict>
+		<key>Tags</key>
+		<string>books, research, arthur</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.347268</real>
+			<real>-74.655868</real>
+		</array>
+	</dict>
+	<key>Mudd Manuscript Library</key>
+	<dict>
+		<key>Tags</key>
+		<string>books, research, seeley, g.</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.349623</real>
+			<real>-74.65199200000001</real>
+		</array>
+	</dict>
+	<key>Stokes Library</key>
+	<dict>
+		<key>Tags</key>
+		<string>books, research, donald, e., politics, political, public, international, affairs, population, wallace, hall</string>
+		<key>Coordinates</key>
+		<array>
+			<real>40.349269</real>
+			<real>-74.653763</real>
+		</array>
+	</dict>
+</dict>
+</plist>

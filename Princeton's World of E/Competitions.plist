@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Hack Week</string>
+		<key>date</key>
+		<string>2014/01/28</string>
+		<key>organizer</key>
+		<string>E-Club</string>
+		<key>on campus</key>
+		<true/>
+		<key>details</key>
+		<string>Stay on campus for intersession and build a prototype that could form the basis of a startup in just a week, all the while getting mentored by big time entrepreneurs and attending classes with some of the best programmers and designers in the industry. You&apos;ll get hands-on experience about both the technical and business aspects of doing a startup, and you&apos;ll add an awesome project to your portfolio.</string>
+		<key>url</key>
+		<string>http://princetoneclub.com/collection/hack-week-2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>HackPrinceton</string>
+		<key>date</key>
+		<string>2013/11/08</string>
+		<key>organizer</key>
+		<string>E-Club</string>
+		<key>on campus</key>
+		<true/>
+		<key>details</key>
+		<string>HackPrinceton provides Princeton students with a wonderful opportunity to hack, work together and grow their technical skills and experience converting an idea from concept to reality. It’s also a wonderful way for students to learn new things and share what they know with others.</string>
+		<key>url</key>
+		<string>http://hackprinceton.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>PennApps</string>
+		<key>date</key>
+		<string>NULL</string>
+		<key>organizer</key>
+		<string>U. of Penn.</string>
+		<key>on campus</key>
+		<false/>
+		<key>details</key>
+		<string>PennApps is a 48-hour hackathon (app development competition) at the University of Pennsylvania where the top student engineers, designers, and entrepreneurs from universities all over the US come together to showcase technical achievements and compete for cash prizes.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TigerLaunch</string>
+		<key>date</key>
+		<string>NULL</string>
+		<key>organizer</key>
+		<string>E-Club</string>
+		<key>on campus</key>
+		<true/>
+		<key>details</key>
+		<string>The Princeton Entrepreneurship Club’s annual startup challenge. Submit a first round application answering a few questions about your startup idea and team. After semi-finalists are announced, you will be paired up with mentors and be able to submit either a product demo or a business plan.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Princeton Pitch</string>
+		<key>date</key>
+		<string>2013/09/25</string>
+		<key>organizer</key>
+		<string>E-Club</string>
+		<key>on campus</key>
+		<true/>
+		<key>details</key>
+		<string>Princeton Pitch is an annual competition organized by the Princeton Entrepreneurship Club that gives students the chance to win $1,000 for an entrepreneurial or social entrepreneurial startup idea they have. During the event, students have the opportunity to participate in mentorship sessions with tech revolutionaries as well as to receive constructive feedback from experienced entrepreneurs, faculty and fellow students.</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3396" systemVersion="12F45" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Alumnus" representedClassName="Alumnus" parentEntity="Third_Lev_Object" syncable="YES">
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="organization" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Club" representedClassName="Club" parentEntity="Third_Lev_Object" syncable="YES">
+        <attribute name="shortName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="details" optional="YES" minCount="1" maxCount="1" deletionRule="Cascade" destinationEntity="Club_Details" inverseName="main" inverseEntity="Club_Details" syncable="YES"/>
+    </entity>
+    <entity name="Club_Details" representedClassName="Club_Details" syncable="YES">
+        <attribute name="details" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="main" minCount="1" maxCount="1" deletionRule="Cascade" destinationEntity="Club" inverseName="details" inverseEntity="Club" syncable="YES"/>
+    </entity>
+    <entity name="Competition" representedClassName="Competition" parentEntity="Third_Lev_Object" syncable="YES">
+        <attribute name="date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="onCampus" attributeType="Boolean" syncable="YES"/>
+        <attribute name="organizer" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="details" optional="YES" minCount="1" maxCount="1" deletionRule="Cascade" destinationEntity="Competition_Details" inverseName="main" inverseEntity="Competition_Details" syncable="YES"/>
+    </entity>
+    <entity name="Competition_Details" representedClassName="Competition_Details" syncable="YES">
+        <attribute name="details" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="main" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Competition" inverseName="details" inverseEntity="Competition" syncable="YES"/>
+    </entity>
+    <entity name="Connect_Object" representedClassName="Connect_Object" parentEntity="Second_Lev_Object" syncable="YES"/>
+    <entity name="Course" representedClassName="Course" parentEntity="Third_Lev_Object" syncable="YES">
+        <attribute name="number" attributeType="Integer 32" minValueString="100" maxValueString="999" syncable="YES"/>
+        <attribute name="prefix" attributeType="String" minValueString="3" maxValueString="3" syncable="YES"/>
+        <relationship name="details" optional="YES" minCount="1" maxCount="1" deletionRule="Cascade" destinationEntity="Course_Details" inverseName="main" inverseEntity="Course_Details" syncable="YES"/>
+        <relationship name="faculty" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Faculty" inverseName="courses" inverseEntity="Faculty" syncable="YES"/>
+    </entity>
+    <entity name="Course_Details" representedClassName="Course_Details" syncable="YES">
+        <attribute name="details" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="main" minCount="1" maxCount="1" deletionRule="Cascade" destinationEntity="Course" inverseName="details" inverseEntity="Course" syncable="YES"/>
+    </entity>
+    <entity name="Do_Object" representedClassName="Do_Object" parentEntity="Second_Lev_Object" syncable="YES"/>
+    <entity name="Faculty" representedClassName="Faculty" parentEntity="Third_Lev_Object" syncable="YES">
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="office" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="courses" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Course" inverseName="faculty" inverseEntity="Course" syncable="YES"/>
+    </entity>
+    <entity name="Funding" representedClassName="Funding" parentEntity="Third_Lev_Object" syncable="YES">
+        <relationship name="details" optional="YES" minCount="1" maxCount="1" deletionRule="Cascade" destinationEntity="Funding_Details" inverseName="main" inverseEntity="Funding_Details" syncable="YES"/>
+    </entity>
+    <entity name="Funding_Details" representedClassName="Funding_Details" syncable="YES">
+        <attribute name="details" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="main" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Funding" inverseName="details" inverseEntity="Funding" syncable="YES"/>
+    </entity>
+    <entity name="Internship" representedClassName="Internship" parentEntity="Third_Lev_Object" syncable="YES">
+        <relationship name="details" optional="YES" minCount="1" maxCount="1" deletionRule="Cascade" destinationEntity="Internship_Details" inverseName="main" inverseEntity="Internship_Details" syncable="YES"/>
+    </entity>
+    <entity name="Internship_Details" representedClassName="Internship_Details" syncable="YES">
+        <attribute name="details" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="main" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Internship" inverseName="details" inverseEntity="Internship" syncable="YES"/>
+    </entity>
+    <entity name="Learn_Object" representedClassName="Learn_Object" parentEntity="Second_Lev_Object" syncable="YES"/>
+    <entity name="Second_Lev_Object" representedClassName="Second_Lev_Object" syncable="YES">
+        <attribute name="lastModified" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="name" attributeType="String" syncable="YES"/>
+        <relationship name="thirdLevel" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Third_Lev_Object" inverseName="secondLevel" inverseEntity="Third_Lev_Object" syncable="YES"/>
+    </entity>
+    <entity name="Third_Lev_Object" representedClassName="Third_Lev_Object" syncable="YES">
+        <attribute name="lastModified" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="secondLevel" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Second_Lev_Object" inverseName="thirdLevel" inverseEntity="Second_Lev_Object" syncable="YES"/>
+    </entity>
+    <entity name="Trip" representedClassName="Trip" parentEntity="Third_Lev_Object" syncable="YES">
+        <attribute name="date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="organizer" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="details" optional="YES" minCount="1" maxCount="1" deletionRule="Cascade" destinationEntity="Trip_Details" inverseName="main" inverseEntity="Trip_Details" syncable="YES"/>
+    </entity>
+    <entity name="Trip_Details" representedClassName="Trip_Details" syncable="YES">
+        <attribute name="details" attributeType="String" syncable="YES"/>
+        <attribute name="location" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="main" minCount="1" maxCount="1" deletionRule="Cascade" destinationEntity="Trip" inverseName="details" inverseEntity="Trip" syncable="YES"/>
+    </entity>
+    <entity name="Workshop" representedClassName="Workshop" parentEntity="Third_Lev_Object" syncable="YES">
+        <relationship name="details" optional="YES" minCount="1" maxCount="1" deletionRule="Cascade" destinationEntity="Workshop_Details" inverseName="main" inverseEntity="Workshop_Details" syncable="YES"/>
+    </entity>
+    <entity name="Workshop_Details" representedClassName="Workshop_Details" syncable="YES">
+        <attribute name="details" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="main" optional="YES" minCount="1" maxCount="1" deletionRule="Cascade" destinationEntity="Workshop" inverseName="details" inverseEntity="Workshop" syncable="YES"/>
+    </entity>
+    <fetchRequest name="FetchSLOClubs" entity="Second_Lev_Object" predicateString="name == &quot;Clubs&quot;"/>
+    <fetchRequest name="FetchSLOCompetitions" entity="Second_Lev_Object" predicateString="name == &quot;Competitions&quot;"/>
+    <fetchRequest name="FetchSLOCourses" entity="Second_Lev_Object" predicateString="name == &quot;Courses&quot;"/>
+    <fetchRequest name="FetchSLOFunding" entity="Second_Lev_Object" predicateString="name == &quot;Funding&quot;"/>
+    <fetchRequest name="FetchSLOInternships" entity="Second_Lev_Object" predicateString="name == &quot;Internships&quot;"/>
+    <fetchRequest name="FetchSLOTrips" entity="Second_Lev_Object" predicateString="name == &quot;Trips&quot;"/>
+    <fetchRequest name="FetchSLOWorkshops" entity="Second_Lev_Object" predicateString="name == &quot;Workshops&quot;"/>
+    <elements>
+        <element name="Alumnus" positionX="-983" positionY="-72" width="128" height="88"/>
+        <element name="Club" positionX="-945" positionY="158" width="128" height="73"/>
+        <element name="Club_Details" positionX="-1026" positionY="45" width="128" height="88"/>
+        <element name="Competition" positionX="-470" positionY="-292" width="128" height="103"/>
+        <element name="Competition_Details" positionX="-308" positionY="-162" width="128" height="88"/>
+        <element name="Connect_Object" positionX="-954" positionY="-261" width="128" height="43"/>
+        <element name="Course" positionX="-722" positionY="378" width="128" height="103"/>
+        <element name="Course_Details" positionX="-396" positionY="369" width="128" height="88"/>
+        <element name="Do_Object" positionX="-578" positionY="-135" width="128" height="43"/>
+        <element name="Faculty" positionX="-918" positionY="504" width="128" height="88"/>
+        <element name="Funding" positionX="-533" positionY="482" width="128" height="58"/>
+        <element name="Funding_Details" positionX="-335" positionY="458" width="128" height="88"/>
+        <element name="Internship" positionX="-560" positionY="272" width="128" height="58"/>
+        <element name="Internship_Details" positionX="-371" positionY="234" width="128" height="88"/>
+        <element name="Learn_Object" positionX="-990" positionY="-180" width="128" height="43"/>
+        <element name="Second_Lev_Object" positionX="-783" positionY="-135" width="128" height="88"/>
+        <element name="Third_Lev_Object" positionX="-767" positionY="171" width="128" height="88"/>
+        <element name="Trip" positionX="-308" positionY="108" width="128" height="88"/>
+        <element name="Trip_Details" positionX="-326" positionY="-45" width="128" height="103"/>
+        <element name="Workshop" positionX="-936" positionY="252" width="128" height="58"/>
+        <element name="Workshop_Details" positionX="-533" positionY="551" width="128" height="88"/>
+    </elements>
+</model>

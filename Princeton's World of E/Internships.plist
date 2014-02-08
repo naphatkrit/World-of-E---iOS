@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>First Round Capital Common Application</string>
+		<key>url</key>
+		<string>http://www.university.firstround.com</string>
+		<key>details</key>
+		<string>With this one application, engineering students can apply for summer internships or full-time jobs at over 170 amazing startup companies.  Maybe you&apos;re an algorithms and data junkie looking to work on insanely tough problems with a small team in SF, or perhaps you&apos;re more interested in doing iOS development for an eCommerce company in NYC  – just tell us about yourself, your interests and desired location and we&apos;ll take care of the rest.   If you&apos;re a student, you can apply here now. 
+
+Read more: http://firstround.com/article/Apply-to-work-at-170-startups-with-one-Common-Application#ixzz2g3GEPbgh</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>hackNY Fellows</string>
+		<key>url</key>
+		<string>http://apply.hackny.org</string>
+		<key>details</key>
+		<string>The hackNY Fellows program, now entering its fourth year, is an intense program designed to introduce students to NYC&apos;s startup ecosystem by pairing the best technical minds with great New York startups.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>International Internship Program</string>
+		<key>url</key>
+		<string>http://www.princeton.edu/oip/iip/</string>
+		<key>details</key>
+		<string>Princeton&apos;s International Internship Program (IIP) supports Princeton undergraduates who wish to undertake a summer internship abroad. IIP is partnering with an increasing number of University programs, departments, and centers to support internship placements in every region of the world and across diverse areas of professional and academic interests.
+
+If you are a freshman, sophomore, or junior interested in spending a summer abroad doing work related to your academic concentration or interests, we encourage you to explore the listings on our website and to contact us with any questions.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Keller Center Internships</string>
+		<key>url</key>
+		<string>http://commons.princeton.edu/kellercenter/internships/summer.html</string>
+		<key>details</key>
+		<string>Established in February 2005, the mission of Princeton&apos;s Keller Center is to &quot;educate students to be leaders in a technology-driven society&quot;. The Keller Center is creating new courses and strengthening existing ones that go beyond purely technical subjects to provide students a broader understanding of the global economic, environmental and cultural forces that shape and are shaped by technology. At the same time, the center is enriching students&apos; education by supporting student engineering projects in the community, providing internships, hosting a variety of lecture series, and exposing them to entrepreneurial opportunities.
+</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>KPCB Fellows</string>
+		<key>url</key>
+		<string>http://kpcbfellows.com</string>
+		<key>details</key>
+		<string>Our KPCB Fellows Program offers outstanding college students from across the United States an opportunity to gain significant experience working on unique and challenging technical or design problems, and to develop new relationships that are meaningful to their careers.
+
+Over the course of a summer, KPCB Fellows will be employed at our portfolio companies, where they can develop their technical or design skills and be mentored by an executive within the company. Fellows will also be invited to attend private events held by KPCB and events hosted by portfolio companies, where they can meet other talented engineering and design students, network with luminaries in their respective field, and explore the San Francisco Bay Area.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Nation&apos;s Service</string>
+		<key>url</key>
+		<string>http://nationsservice.org/internships</string>
+		<key>details</key>
+		<string>Hello! Welcome to Nations&apos; Service, a resource for students and alumni looking for a way to do well by doing good.
+
+This wiki is being developed so that it can be used as a free, collaborative resource for university students and alumni to explore a wide variety of career paths together, and to discuss alternatives to the seemingly limited options students see as they approach graduation.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Career&apos;s Services</string>
+		<key>url</key>
+		<string>http://www.princeton.edu/career/undergrads/internships/</string>
+		<key>details</key>
+		<string>Career Services is committed to assisting the undergraduate and graduate students, and alumni of Princeton University in all areas of career planning, including exploring career-related interests, applying to graduate or professional schools, and developing effective strategies for the pursuit of full-time employment, internships, or other experiential learning opportunities.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Tiger Tracks</string>
+		<key>url</key>
+		<string>https://princeton.experience.com/experience/login</string>
+		<key>details</key>
+		<string>TigerTracks is Princeton&apos;s electronic recruiting system that holds literally hundreds of listings for jobs, fellowships, and internships. New opportunities are continually added to TigerTracks!
+
+TigerTracks is used to manage the on-campus recruiting program which coordinates the visits of employers for interviews,  information sessions, and other recruiting events. Check TigerTracks regularly to view upcoming employer events and on-campus interviews. You can also use TigerTracks to research and contact recruiters, manage your application materials, apply for positions, and sign up for on-campus interviews.
+
+Be sure to fill out your profile thoroughly once you have accessed your account. Keeping all sections of your profile up-to-date, especially your concentration and employment preferences, will ensure that you receive targeted email announcements from Career Services (on behalf of recruiting organizations) when relevant opportunities and events arise.</string>
+	</dict>
+</array>
+</plist>

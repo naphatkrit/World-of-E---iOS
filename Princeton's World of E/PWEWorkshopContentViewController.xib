@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="4504" systemVersion="12E55" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment defaultVersion="1536" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3734.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PWEWorkshopContentViewController">
+            <connections>
+                <outlet property="descriptionTextView" destination="eWA-jv-8qC" id="DNS-9h-5ak"/>
+                <outlet property="linkButton" destination="ZfO-x2-ejH" id="UuQ-43-SnF"/>
+                <outlet property="titleLabel" destination="K1o-2w-xPs" id="hYk-30-Tw8"/>
+                <outlet property="view" destination="1" id="3"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="1">
+            <rect key="frame" x="0.0" y="0.0" width="300" height="598"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Title" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" preferredMaxLayoutWidth="280" translatesAutoresizingMaskIntoConstraints="NO" id="K1o-2w-xPs">
+                    <rect key="frame" x="10" y="20" width="280" height="120"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="120" id="3Gi-37-poy"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <textView clipsSubviews="YES" contentMode="scaleToFill" bounces="NO" scrollEnabled="NO" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" delaysContentTouches="NO" canCancelContentTouches="NO" bouncesZoom="NO" editable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eWA-jv-8qC">
+                    <rect key="frame" x="10" y="148" width="280" height="378"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                </textView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZfO-x2-ejH">
+                    <rect key="frame" x="10" y="534" width="61" height="44"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="44" id="H1o-Un-9eE"/>
+                        <constraint firstAttribute="width" constant="61" id="Ld6-Cu-5FC"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <state key="normal" title="Link">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="goToLink:" destination="-1" eventType="touchUpInside" id="lcS-9R-h2c"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="ZfO-x2-ejH" firstAttribute="leading" secondItem="eWA-jv-8qC" secondAttribute="leading" id="7eR-lQ-lSD"/>
+                <constraint firstAttribute="trailing" secondItem="K1o-2w-xPs" secondAttribute="trailing" constant="10" id="BjG-O5-sKx"/>
+                <constraint firstItem="K1o-2w-xPs" firstAttribute="top" secondItem="1" secondAttribute="top" constant="20" id="Gk3-eC-VxN"/>
+                <constraint firstAttribute="bottom" secondItem="ZfO-x2-ejH" secondAttribute="bottom" constant="20" symbolic="YES" id="HQ1-fW-qOH"/>
+                <constraint firstItem="K1o-2w-xPs" firstAttribute="leading" secondItem="1" secondAttribute="leading" constant="10" id="Ob6-fp-z6T"/>
+                <constraint firstItem="eWA-jv-8qC" firstAttribute="trailing" secondItem="K1o-2w-xPs" secondAttribute="trailing" id="Oqs-tT-Ehh"/>
+                <constraint firstItem="ZfO-x2-ejH" firstAttribute="top" secondItem="eWA-jv-8qC" secondAttribute="bottom" constant="8" symbolic="YES" id="a6o-HJ-lhf"/>
+                <constraint firstItem="eWA-jv-8qC" firstAttribute="top" secondItem="K1o-2w-xPs" secondAttribute="bottom" constant="8" symbolic="YES" id="qZS-rI-IdR"/>
+                <constraint firstItem="eWA-jv-8qC" firstAttribute="leading" secondItem="K1o-2w-xPs" secondAttribute="leading" id="rmY-SI-DCs"/>
+            </constraints>
+            <simulatedStatusBarMetrics key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>iOS Hack Class</string>
+		<key>details</key>
+		<string>Want to create the next revolutionary iOS app? Come to E-Club&apos;s iOS Hack Class, and you will have the skills to do that!</string>
+		<key>url</key>
+		<string>http://princetoneclub.com/collection/hack-classes-2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Web Hack Class</string>
+		<key>details</key>
+		<string>Come learn how to make stunning websites.</string>
+		<key>url</key>
+		<string>http://princetoneclub.com/collection/hack-classes-2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Design Hack Class</string>
+		<key>details</key>
+		<string>Designing is at the center of technology. Come learn all about it at E-Club&apos;s Design Hack Class.</string>
+		<key>url</key>
+		<string>http://princetoneclub.com/collection/hack-classes-2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Idea Factory</string>
+		<key>details</key>
+		<string>Idea Factory is a hub for diverse minds on campus to come together and drive innovative ideas or just learn about the latest trends in various fields. It’s a platform appropriate to any curious mind regardless of where you are in the process of entrepreneurship be it discovering your interest in potential opportunities, nurturing your nascent idea into a well-developed plan of action, or learning from the mentors in entrepreneurship for key insights. If you have a passion for thinking out-of-the-box, Idea Factory is the place for you! P.S. Free pizza!</string>
+		<key>url</key>
+		<string>http://princetoneclub.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Speaker Series</string>
+		<key>details</key>
+		<string>The Princeton Entrepreneurship Speaker Series brings leading entrepreneurs, investors, innovators, and industry leaders to the Princeton campus to speak about their experiences, lead educational workshops, and inspire students to pursue entrepreneurship. The Series this year will feature 1-two blockbuster speaker events each semester that are open to all students, as well as a few targeted towards certain disciplines or audiences. Some of our past guests include Peter Thiel, Fred Wilson, Walter Isaacson, Meg Whitman, and Jack Dorsey.</string>
+		<key>url</key>
+		<string>http://princetoneclub.com/collection/speaker-series</string>
+	</dict>
+</array>
+</plist>

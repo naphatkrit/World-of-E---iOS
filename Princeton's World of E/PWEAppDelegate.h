@@ -7,13 +7,24 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <CoreData/CoreData.h>
+//#import <GoogleMaps/GoogleMaps.h>
 
-@class PWEViewController;
+@class PWERootViewController;
 
 @interface PWEAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 
-@property (strong, nonatomic) PWEViewController *viewController;
+@property (nonatomic, strong) UIPageViewController *pageViewController;
+@property (nonatomic, strong) NSMutableArray *visiblePageIndexArray;
+@property (strong, nonatomic, readonly) PWERootViewController *viewController;
+@property (readonly, strong, nonatomic) NSManagedObjectContext *managedObjectContext;
+@property (readonly, strong, nonatomic) NSManagedObjectModel *managedObjectModel;
+@property (readonly, strong, nonatomic) NSPersistentStoreCoordinator *persistentStoreCoordinator;
+
+- (void)saveContext;
+- (NSURL *)applicationDocumentsDirectory;
+//- (PWEViewController *)getMainViewController;
 
 @end

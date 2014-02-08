@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Princeton Social Entrepreneurship Initiative</string>
+		<key>short_name</key>
+		<string>PSEI</string>
+		<key>details</key>
+		<string>PSEI is a family of students, alumni, faculty, and friends who, together, are changing the world for the better.</string>
+		<key>url</key>
+		<string>http://princetonsei.org</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Princeton Entrepreneurship Club</string>
+		<key>short_name</key>
+		<string>E-Club</string>
+		<key>details</key>
+		<string></string>
+		<key>url</key>
+		<string>http://princetoneclub.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Development Design Initiative</string>
+		<key>short_name</key>
+		<string>DDI</string>
+		<key>details</key>
+		<string>We create and foster Design Partnerships where students partner with local implementation partners to complete series of 1 to 2 year design projects. Have an idea for one?  Please contact us!</string>
+		<key>url</key>
+		<string>http://princetonddi.weebly.com/index.html</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Engineers Without Borders</string>
+		<key>short_name</key>
+		<string>EWB-PU</string>
+		<key>details</key>
+		<string>EWB-PU is dedicated to engaging the Princeton University community in addressing international development challenges through the design and implementation of sustainable engineering projects, drawing on the long legacy of &quot;Princeton in the Nation&apos;s Service and in the Service of All Nations.&quot;</string>
+		<key>url</key>
+		<string>http://ewb.princeton.edu/site/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sustainable Fasion Initiative</string>
+		<key>short_name</key>
+		<string>SFI</string>
+		<key>details</key>
+		<string>Founded at Princeton University in 2011, The Sustainable Fashion Initiative is dedicated to cultivating a culture of sustainability in the fashion industry that is grounded in the conviction of young consumers to live, create, and shop purposefully.</string>
+		<key>url</key>
+		<string>http://www.sustainable-fashion.org</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Leadership for Change</string>
+		<key>short_name</key>
+		<string>LFC</string>
+		<key>details</key>
+		<string>Leadership for Change envisions a Princeton culture in which leaders are not defined by position or title, but rather by students’ motivation to develop themselves and others as leaders, and by their ability to envision and effect change in their organization, community, and field. </string>
+		<key>url</key>
+		<string>http://princetonlfc.weebly.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Association for Computing Machinery</string>
+		<key>short_name</key>
+		<string>ACM</string>
+		<key>details</key>
+		<string>The Princeton ACM is the student chapter of the world’s largest educational and scientific computing society, the Association for Computing Machinery (ACM). The Princeton ACM aims to connect and create a community for Princeton students of all majors interested in computer science. We hold regular events, such as our bi-to-tri-weekly all-night-long Hackathons (“Code@Night”), study breaks, and programming competitions. We also hold a variety of career events, such as a Resume Workshop (sponsored by Facebook) or mock technical interviews.</string>
+		<key>url</key>
+		<string>http://princetonacm.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Princeton Women in Computer Science</string>
+		<key>short_name</key>
+		<string>PWiCS</string>
+		<key>details</key>
+		<string>Princeton Women in Computer Science (PWiCS) was formed in May of 2010 by two female computer science undergraduates who wanted to find a way to allow the small number of women in the computer science department at Princeton to meet each other and encourage other women to see how much fun it is to be a computer scientist.  The group started out holding course advising study breaks for younger students, and now has grown into hosting many other kinds of events.</string>
+		<key>url</key>
+		<string>http://princetonwics.wordpress.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Society of Women Engineers</string>
+		<key>short_name</key>
+		<string>SWE</string>
+		<key>details</key>
+		<string>Our group is dedicated to promoting a sense of community among female BSE students, professors, and alumnae of Princeton and to introduce younger girls to the various opportunities offered by studying engineering. We hold study breaks and other social events throughout the year for interested students. Our calendar also includes various industry outreach opportunities. At two girl scouts events each year, local girls earn science and technology badges with members of our club. At our High School Colloquiums we help introduce high school students to the various branches of engineering and offer an insight into these fields that they might otherwise not consider studying. </string>
+		<key>url</key>
+		<string>http://www.princeton.edu/~swe/index.html</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>International Association of Hydrogen Energy</string>
+		<key>short_name</key>
+		<string>IAHE-PU</string>
+		<key>details</key>
+		<string>IAHE‐PU stands for the student chapter of International Association of Hydrogen Energy (IAHE) at Princeton University. IAHE is a renowned international organisation, with a main objective to promote hydrogen as a sustainable energy carrier for the future. As one of the organisation’s pioneering student chapters in US, IAHE-PU will aim to engage the campus with learning more about hydrogen energy, its potential, its limitations, and the open questions motivating today’s cutting-edge research on alternative energy. Our group aspires to become an active member in the university’s Sustainability Plan, and to bring new technological perspectives to the existing efforts on campus. In addition, our group will also strive to connect PU students, especially those with an interest in energy technology or public policy, to the worldwide opportunities and professional mentorships sponsored by IAHE.</string>
+		<key>url</key>
+		<string>http://www.princeton.edu/~iahe/</string>
+	</dict>
+</array>
+</plist>

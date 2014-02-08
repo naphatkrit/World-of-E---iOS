@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Community-Based Learning Initiative</string>
+		<key>description</key>
+		<string>The Community-Based Learning Initiative (CBLI) connects students&apos; academic work with their interest in and concern for the communities around the University. Working with local nonprofits, students develop research projects, collect and analyze data, and share their results and conclusions, not just with their professors, but also with organizations and agencies that can make use of the information. Working with CBLI, students can do community-based research in courses, as a summer research internship, and as part of their junior paper or senior thesis.</string>
+		<key>url</key>
+		<string>https://www.princeton.edu/cbli/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Dorm Room Fund</string>
+		<key>description</key>
+		<string>Dorm Room Fund is a student-run venture firm that invests in student-run companies. Our team is all students and our mission is to inspire and support more careers in the startup industry. We believe that a relatively small amount of capital can help student founders take their ideas from the dorm room to the market. We are laser-focused on working with the best student talent in the world. We&apos;re backed by First Round Capital.</string>
+		<key>url</key>
+		<string>http://dormroomfund.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>eLab</string>
+		<key>description</key>
+		<string>The Keller Center’s eLab Summer Accelerator Program at Princeton University is a launch pad for student startups, a creative co-working space open, by application only, to some of Princeton’s brightest and most dynamic students.  An exceptional 10-week long summer program awaits these students as they learn from the best innovators and investors and fine tune their nascent start up ideas to develop them into viable and scalable ventures.  Over a period of 10 weeks, students will work together in a supportive community of fellow entrepreneurs, assigned mentors, and participate in training sessions and workshops.</string>
+		<key>url</key>
+		<string>http://kellercenter.princeton.edu/elab/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Tigerlabs</string>
+		<key>description</key>
+		<string>Tigerlabs is an entrepreneurship campus founded by serial entrepreneurs &amp; venture capitalists with the goal of organizing the fast growing but disjointed startup ecosystem of Princeton, NJ.</string>
+		<key>url</key>
+		<string>http://www.tigerlabs.co</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Tiger2Tiger</string>
+		<key>description</key>
+		<string>Princeton University&apos;s Class of 2002 has begun a legacy community service project to launch the Tiger2Tiger program, which will enable graduating Princeton seniors to pursue inspiring projects with immediate relevance and impact.</string>
+		<key>url</key>
+		<string>http://www.tiger2tiger.org</string>
+	</dict>
+</array>
+</plist>
